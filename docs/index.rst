@@ -1,9 +1,9 @@
-IMPRS Python Workshop
+IMPRS Python Tutorial
 =====================
 
 .. note:: Please bring your laptop to the workshop!
 
-The purpose of this workshop is to get you started with Python and learn about
+The purpose of this tutorial is to get you started with Python and learn about
 Packages you can use for your research.
 
 Useful links
@@ -21,7 +21,7 @@ Notebooks
 ---------
 
 * `Numbers, Strings, and Lists <http://mpia.de/~robitaille/python4imprs/notebooks/01.%20Numbers,%20String,%20and%20Lists.html>`_
-* `Control Flow <http://mpia.de/~robitaille/python4imprs/notebooks/02.%20Control%20Flow.html`_
+* `Control Flow <http://mpia.de/~robitaille/python4imprs/notebooks/02.%20Control%20Flow.html>`_
 * `Functions and Modules <http://mpia.de/~robitaille/python4imprs/notebooks/03.%20Functions%20and%20Modules.html>`_
 * `Introduction to Numpy <http://mpia.de/~robitaille/python4imprs/notebooks/04.%20Introduction%20to%20Numpy.html>`_
 * `Introduction to Matplotlib <http://mpia.de/~robitaille/python4imprs/notebooks/05.%20Introduction%20to%20Matplotlib.html>`_
