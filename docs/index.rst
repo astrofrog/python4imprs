@@ -25,6 +25,7 @@ Notebooks
 * `Functions and Modules <http://mpia.de/~robitaille/python4imprs/notebooks/03.%20Functions%20and%20Modules.html>`_
 * `Introduction to Numpy <http://mpia.de/~robitaille/python4imprs/notebooks/04.%20Introduction%20to%20Numpy.html>`_
 * `Introduction to Matplotlib <http://mpia.de/~robitaille/python4imprs/notebooks/05.%20Introduction%20to%20Matplotlib.html>`_
+* `Exercise Sheet 1 <http://mpia.de/~robitaille/python4imprs/notebooks/Exercise%20Sheet%201.html>`_
 
 .. * `Handling FITS files <http://mpia.de/~robitaille/python4imprs/notebooks/Handling%20FITS%20files.html>`_ [`Problem solutions <http://mpia.de/~robitaille/python4imprs/notebooks/Handling%20FITS%20files%20-%20Solutions.html>`_]
 .. * `Units and Quantities <http://mpia.de/~robitaille/python4imprs/notebooks/Unit%20Conversion.html>`_ [`Problem solutions <http://mpia.de/~robitaille/python4imprs/notebooks/Unit%20Conversion%20-%20Solutions.html>`_]
